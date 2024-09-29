@@ -1,0 +1,12 @@
+openai
+streamlit
+python-dotenv
+rank_bm25
+sentence-transformers
+beautifulsoup4
+ollama
+contractions
+nltk
+numpy
+langchain-ollama
+langchain-openai
